@@ -32,7 +32,7 @@ Bilingual (ES/EN), with strong quantitative foundations from 8+ years of scienti
 | Project | Description | Key Result |
 |---|---|---|
 
-| [ecommerce-data-pipeline][(#)](https://github.com/frangarciaproff/ecommerce-data-pipeline) | ELT pipeline on 3 years of LATAM e-commerce data. SQLite, SQLAlchemy, Pandas, Plotly. | 3-year dataset |
+| [ecommerce-data-pipeline](https://github.com/frangarciaproff/ecommerce-data-pipeline) | ELT pipeline on 3 years of LATAM e-commerce data. SQLite, SQLAlchemy, Pandas, Plotly. | 3-year dataset |
  
  
 ---
