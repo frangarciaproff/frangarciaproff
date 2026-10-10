@@ -13,27 +13,13 @@ Bilingual (ES/EN), with strong quantitative foundations from 8+ years of scienti
  
 ## 🛠 Tech Stack
  
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F89939?style=flat&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-4CAF50?style=flat)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
- 
----
- 
-## 📌 Featured Projects
- 
-| Project | Description | Key Result |
-|---|---|---|
-
-| [ecommerce-data-pipeline](https://github.com/frangarciaproff/ecommerce-data-pipeline) | ELT pipeline on 3 years of LATAM e-commerce data. SQLite, SQLAlchemy, Pandas, Plotly. | 3-year dataset |
- 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4B5563?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
  
 ---
  
@@ -41,10 +27,3 @@ Bilingual (ES/EN), with strong quantitative foundations from 8+ years of scienti
  
 - 🇦🇷 Spanish — native
 - 🇬🇧 English — bilingual / native proficiency
----
- 
-## 📫 Contact
- 
-- 📧 fran.garcia.profesional@gmail.com
-- 📍 Córdoba, Argentina
-- Open to remote ML roles
