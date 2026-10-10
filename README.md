@@ -1,6 +1,16 @@
+## About
+
+**Building ML systems and measuring where they break.**
+
+Model evaluation · Failure analysis · Containerized deployment
+---
+
 ML engineer with a research-grade background in data analysis and experimental modeling.
+
 I build end-to-end ML systems — from EDA and model training to deployment in containerized services.
+
 Focused on understanding where models fail, why they fail, and how to make them work under real-world constraints.
+
 Bilingual (ES/EN), with strong quantitative foundations from scientific research.
  
 ---
