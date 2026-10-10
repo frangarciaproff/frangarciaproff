@@ -1,8 +1,9 @@
-## About
+##  About
 
-**Building ML systems and measuring where they break.**
+Building ML systems and measuring where they break.
 
 Model evaluation · Failure analysis · Containerized deployment
+
 ---
 
 ML engineer with a research-grade background in data analysis and experimental modeling.
