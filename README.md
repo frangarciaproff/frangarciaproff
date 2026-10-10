@@ -1,13 +1,7 @@
-# Francisco Javier García Soriano
- 
-**Machine Learning Engineer · AnyoneAI** | PhD Physics · UNC Argentina
- 
----
- 
 ML engineer with a research-grade background in data analysis and experimental modeling.
-I build end-to-end ML systems — from EDA and model training to deployment with Flask, Docker, and REST APIs.
-Focused on computer vision, NLP, and RAG-based applications.
-Bilingual (ES/EN), with strong quantitative foundations from 8+ years of scientific research.
+I build end-to-end ML systems — from EDA and model training to deployment in containerized services.
+Focused on understanding where models fail, why they fail, and how to make them work under real-world constraints.
+Bilingual (ES/EN), with strong quantitative foundations from scientific research.
  
 ---
  
